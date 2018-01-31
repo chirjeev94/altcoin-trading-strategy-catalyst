@@ -1,4 +1,4 @@
-# altcoin-trading-stratgey-catalyst
+# altcoin-trading-strategy-catalyst
 
 The following examples have been adapted from the Zipline Enigma project:
 
